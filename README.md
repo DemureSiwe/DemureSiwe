@@ -12,13 +12,10 @@ I'm a Front-End Developer with a background in Virtual Assistance and Psychology
 - Detail-oriented and highly organized
 - I build with the user in mind, not just the code
 
-## 👾  Pacman
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
-</picture>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 📂 Projects:
 Here are a few things I’ve worked on:
@@ -27,9 +24,6 @@ Here are a few things I’ve worked on:
 - Portfolio Website
 - Poem Generator
   
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 🌱 Currently:
 - Improving my JavaScript skills
 - Building more real-world projects
