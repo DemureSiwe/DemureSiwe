@@ -1,58 +1,18 @@
-## Hi 👋🏾 I'm Busisiwe
-
-I'm a Front-End Developer with a background in Virtual Assistance and Psychology, bringing a unique mix of technical skills and people-centered thinking into everything I build.
-
-💻 What I do:
-- Build responsive websites using HTML, CSS, and JavaScript
-- Focus on clean design and user-friendly experiences
-- Turn ideas into functional, real-world projects
-
-🚀 What makes me different:
-- Strong communication and client support experience
-- Detail-oriented and highly organized
-- I build with the user in mind, not just the code
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-📂 Projects:
-Here are a few things I’ve worked on:
-- Weather App
-- E-commerce Website
-- Portfolio Website
-- Poem Generator
-  
-🌱 Currently:
-- Improving my JavaScript skills
-- Building more real-world projects
-- Open to freelance work and junior developer opportunities
-
-🤝 Let’s work together:
-I'm open to collaborations, freelance projects, and entry-level roles.
-
+# 💫 About Me:
+## Hi 👋🏾 I'm Busisiwe<br><br>I'm a Front-End Developer with a background in Virtual Assistance and Psychology, bringing a unique mix of technical skills and people-centered thinking into everything I build.<br><br>💻 What I do:<br>- Build responsive websites using HTML, CSS, and JavaScript<br>- Focus on clean design and user-friendly experiences<br>- Turn ideas into functional, real-world projects<br><br>🚀 What makes me different:<br>- Strong communication and client support experience<br>- Detail-oriented and highly organized<br>- I build with the user in mind, not just the code<br><br><br>### ✍️ Dev Quote<br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br><br>📂 Projects:<br>Here are a few things I’ve worked on:<br>- Weather App<br>- E-commerce Website<br>- Portfolio Website<br>- Poem Generator<br>  <br>🌱 Currently:<br>- Improving my JavaScript skills<br>- Building more real-world projects<br>- Open to freelance work and junior developer opportunities<br><br>🤝 Let’s work together:<br>I'm open to collaborations, freelance projects, and entry-level roles.<br><br><br><br>## 🌐 Socials:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Busisiwe-Tsetseng) <br>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  <br>![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)<br><br># 💻 Tech Stack:<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) !![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) <br># 📊 GitHub Stats:<br>![](https://github-readme-stats.shion.dev/api?username=DemureSiwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>![](https://streak-stats.demolab.com/?user=DemureSiwe&theme=dark&hide_border=false)<br/><br>![](https://github-readme-stats.shion.dev/api/top-langs/?username=DemureSiwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>)<br><br>## 👾  Pacman<br><br><picture><br>  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg"><br>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph-dark.svg"><br>  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg"><br></picture><br><br><br><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Busisiwe-Tsetseng) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/busisiwe-tsetseng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letsetse.b@gmail.com) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) !![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=DemureSiwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DemureSiwe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DemureSiwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-)
-
-## 👾  Pacman
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
