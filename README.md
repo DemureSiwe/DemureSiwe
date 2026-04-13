@@ -2,6 +2,9 @@
 
 I'm a Front-End Developer with a background in Virtual Assistance and Psychology, bringing a unique mix of technical skills and people-centered thinking into everything I build.
 
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 💻 What I do:
 - Build responsive websites using HTML, CSS, and JavaScript
 - Focus on clean design and user-friendly experiences
@@ -41,12 +44,14 @@ I'm open to collaborations, freelance projects, and entry-level roles.
 
 )
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👾  Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DemureSiwe/DemureSiwe/output/pacman-contribution-graph.svg">
+</picture>
 
 
-
----
-[![](https://komarev.com/ghpvc/?username=DemureSiwe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
