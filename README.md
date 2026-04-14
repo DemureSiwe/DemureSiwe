@@ -1,4 +1,4 @@
-# Hi 👋🏾 I'm Busisiwe<br>
+# Hello, 👋🏼 I'm Busisiwe<br>
 
 I'm a Front-End Developer with a background in Virtual Assistance and Psychology, bringing a unique mix of technical skills and people-centered thinking into everything I build.<br><br>💻 What I do:<br>- Build responsive websites using HTML, CSS, and JavaScript<br>- Focus on clean design and user-friendly experiences<br>- Turn ideas into functional, real-world projects<br><br>🚀 What makes me different:<br>- Strong communication and client support experience<br>- Detail-oriented and highly organized<br>- I build with the user in mind, not just the code<br><br><br>
 ## ✍️ Dev Quote<br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br>
